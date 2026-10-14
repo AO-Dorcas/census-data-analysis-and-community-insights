@@ -45,18 +45,12 @@ in the census dataset.
 <img width="822" height="581" alt="age distribution" src="https://github.com/user-attachments/assets/cfa18279-6e5c-4d0f-8d11-3543ece613da" />
 
 
-## Age Distribution
-
-The chart below illustrates the distribution of ages
-in the census dataset.
-
-<img width="822" height="581" alt="age distribution" src="https://github.com/user-attachments/assets/cfa18279-6e5c-4d0f-8d11-3543ece613da" />
-
 ## Gender Distribution
 
 The chart below illustrates the gender distribution 
 in the census dataset.
 <img width="737" height="571" alt="Screenshot 2026-10-14 133916" src="https://github.com/user-attachments/assets/e0d837bb-f042-429d-bdcb-7323f7e375a3" />
+
 
 
 ## Key Findings
