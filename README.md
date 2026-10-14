@@ -37,6 +37,12 @@ The project examines missing values in several columns and applies documented ha
 
 These assumptions should be considered when interpreting the results, particularly where a blank value does not necessarily confirm a person's status.
 
+## Age Distribution
+
+The chart below illustrates the distribution of ages
+in the census dataset.
+
+
 ## Key Findings
 
 The dataset contains 7,827 records.
